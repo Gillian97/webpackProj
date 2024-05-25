@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(["blog1","blog2","blog3"])})();
